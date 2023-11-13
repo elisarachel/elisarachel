@@ -1,5 +1,6 @@
 ### Hi there :)
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisarachel&show_icons=true&theme=onedark)
+![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisarachel&show_icons=true&theme=onedark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisarachel&theme=onedark)](https://github.com/elisarachel/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=elisarachel&theme=onedark)](https://github.com/elisarachel/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
